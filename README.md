@@ -40,7 +40,7 @@ Feel free to host the `Index.html` file using services like:
 
 | 🔥 **Live Preview** 🔥 |
 |:---------------------:|
-| ![image]() |
+| ![image](https://github.com/user-attachments/assets/97da5e82-da63-4af0-9274-581deaeae002) |
 | [Live-Project](https://varunb453.github.io/Stylish-Landing-Page/) |
 
 Or simply open it locally in your browser by double-clicking `Index.html`.
