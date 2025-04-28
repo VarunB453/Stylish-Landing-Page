@@ -1,7 +1,5 @@
 # 🌟 Stylish Landing Page
-
-![Project Preview](https://github.com/user-attachments/assets/27757bc7-55f6-4745-b221-c5b8d03f9af0)
-
+---
 
 ## 📄 Overview
 
@@ -24,7 +22,7 @@ This is a **modern and minimal landing page** designed using only **HTML** and *
 ## 📁 Project Structure
 
 ```
-/project-2
+/Stylish-Landing-Page
 │
 ├── /style
 │   └── style.css          # All the styling lives here
@@ -39,7 +37,11 @@ This is a **modern and minimal landing page** designed using only **HTML** and *
 
 Feel free to host the `Index.html` file using services like:
 
-- [GitHub Pages]()
+
+| 🔥 **Live Preview** 🔥 |
+|:---------------------:|
+| ![image]() |
+| [Live-Project](https://varunb453.github.io/Stylish-Landing-Page/) |
 
 Or simply open it locally in your browser by double-clicking `Index.html`.
 
